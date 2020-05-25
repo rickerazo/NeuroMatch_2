@@ -11,7 +11,7 @@ Slides: https://github.com/rickerazo/NeuroMatch_2/blob/master/HN_neuromatch_v04.
 
 Live discussion scheduled Zoom meeting:
 
-Topic: Interaction of IP andIpump controlling rhythmic neurons
+Topic: Interaction of IP and Ipump controlling rhythmic neurons
 Time: May 26, 2020 09:00 PM Eastern Time (US and Canada)
 
 Join Zoom Meeting

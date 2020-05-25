@@ -7,6 +7,7 @@ Also, feel free to browse my other Github repositories, I have python code to im
 
 Recorded Talk: https://vimeo.com/422460262
 
+Slides: https://github.com/rickerazo/NeuroMatch_2/blob/master/HN_neuromatch_v04.pptx
 
 Live discussion scheduled Zoom meeting:
 

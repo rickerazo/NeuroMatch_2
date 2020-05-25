@@ -1,8 +1,8 @@
-# NeuroMatch_2
+# NeuroMatch_2.0
 Experimental results of experimental neuroscience prepared for Neuromatch 2.0 virtual conference 2020
 
-Dear Coleagues,
-Thank you for your interest in my project. Please find the slides and video presentation in this repository.
+Dear Coleagues, \n
+Thank you for your interest in my project. Please find the slides and video presentation in this repository. \n
 Also, feel free to browse my other Github repositories, I have python code to import and analyze electrophysiology data from leech and hamster, as well as code for simulations of simplified (leaky-integrate-and-fire) neurons and biophysical (Hodgkin-Huxley) neurons.
 
 Recorded Talk: https://vimeo.com/422460262
